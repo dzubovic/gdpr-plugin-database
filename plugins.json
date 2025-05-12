@@ -1,0 +1,18 @@
+{
+  "elementor": true,
+  "fluentforms": true,
+  "rank-math": true,
+  "yoast-seo": false,
+  "contact-form-7": false,
+  "google-analytics-for-wordpress": false,
+  "monsterinsights": false,
+  "wpforms": true,
+  "woocommerce": true,
+  "cookieyes": true,
+  "complianz": true,
+  "matomo": true,
+  "seopress": true,
+  "wp-cerber": true,
+  "wordfence": true,
+  "updraftplus": true
+}
